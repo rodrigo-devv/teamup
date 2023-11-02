@@ -2,10 +2,7 @@
 
 ## About the Project
 
-TODO
-
-
-**This is a portfolio project in which I've learned and applied various technologies.**
+This application is a simple and user-friendly platform with three main screens, allowing people to create and join groups for various activities, such as forming a soccer team or participating in school challenges.
 
 
 ## Tools
@@ -21,4 +18,13 @@ TODO
 
 ## Structure
 
-TODO
+<p align="center">
+  <strong>App review</strong>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigo-devv/teamup/master/src/Outro/apppreview.gif" alt="Exemplo de GIF">
+</p>
+
+
+*This app was partially created following a tutorial from RocketSeat.*
