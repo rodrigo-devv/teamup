@@ -11,6 +11,7 @@ This application is a simple and user-friendly platform with three main screens,
 | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [Styled Components](https://styled-components.com/)                                     | Learned about styled components and their application in a React.                               |
 | [babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) | Babel plugin simplifies custom module import paths.                                             |
+| [Phosphor Icons](https://github.com/duongdev/phosphor-react-native) | Minimalist design icons for React Native.                                                                           |
 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript)&nbsp;
